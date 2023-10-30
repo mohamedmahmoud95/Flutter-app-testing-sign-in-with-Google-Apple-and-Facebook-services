@@ -33,7 +33,7 @@ Future<UserCredential?> signInWithGoogle() async {
   }
 }
 
-Future<void> getUserData() async {
+Future<void> getGoogleUserData() async {
   try {
     UserCredential? userCredential = await signInWithGoogle();
     User? user = userCredential!.user;
