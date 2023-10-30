@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057394469858",
+    "project_id": "sign-in-providers-test",
+    "storage_bucket": "sign-in-providers-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057394469858:android:806db2533a72e0dcc567bb",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_with_google_facebook_and_apple_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057394469858-2o5uirnfto41d4m3dkqt9riipdohouk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfhXoW-SSKOuctk98K1qhxNcldc3WraqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057394469858-2o5uirnfto41d4m3dkqt9riipdohouk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
