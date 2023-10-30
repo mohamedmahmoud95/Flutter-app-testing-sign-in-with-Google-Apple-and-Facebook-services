@@ -19,7 +19,8 @@ class _TestingScreenState extends State<TestingScreen> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children:[
             ElevatedButton(onPressed: (){
-              signInWithGoogle();
+             // signInWithGoogle();
+              getUserData();
             },
                 child: Text("Sign in with Google")),
 
